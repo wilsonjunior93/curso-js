@@ -10,4 +10,4 @@ Lista de Tarefas
 https://wilsonjunior93.github.io/curso-js/aula48/index.html
 
 Calculadora
-https://wilsonjunior93.github.io/curso-js/aula57/index.html
+https://wilsonjunior93.github.io/curso-js/aula59/index.html
