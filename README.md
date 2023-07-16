@@ -8,3 +8,6 @@ https://wilsonjunior93.github.io/curso-js/aula47/index.html
 
 Lista de Tarefas
 https://wilsonjunior93.github.io/curso-js/aula48/index.html
+
+Calculadora
+https://wilsonjunior93.github.io/curso-js/aula57/index.html
