@@ -10,10 +10,6 @@
   outline: 0;
 }
 
-h1 {
-  text-align: center;
-}
-
 body {
   margin: 0;
   padding: 0;
@@ -24,11 +20,11 @@ body {
 }
 
 .container {
-  max-width: 400px;
+  max-width: 640px;
   margin: 50px auto;
   background: #fff;
-  padding: 40px;
-  border-radius: 20%;
+  padding: 20px;
+  border-radius: 10px;
 }
 
 form input,
@@ -65,7 +61,7 @@ form button:hover {
 }
 
 .calculadora {
-  width: 320px;
+  width: 400px;
 }
 
 .display {
