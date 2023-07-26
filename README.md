@@ -11,3 +11,6 @@ https://wilsonjunior93.github.io/curso-js/aula48/index.html
 
 Calculadora
 https://wilsonjunior93.github.io/curso-js/aula59/index.html
+
+Validando um formulário (usando classe)
+https://wilsonjunior93.github.io/curso-js/aula85/index.html
